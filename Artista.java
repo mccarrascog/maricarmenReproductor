@@ -13,6 +13,8 @@ public class Artista {
                 "nombreArtista='" + nombreArtista + '\'' +
                 '}';
     }
+	//No sé hacer un método porque no sé casi nada de programación :(
+	//Maricarmen
 }
 
 
